@@ -7,7 +7,7 @@
 ## :information_desk_person: Sobre mim
 - :man_technologist: Atualmente estou cursando Engenharia de Software e estudando Desenvolvimento Front-end através de cursos e projetos - Iniciei meus estudos em Setembro de 2022, desde então tenho cada vez mais paixão pela tecnologia por ser um universo de infinitas possibilidades
 - 🚀 No momento, tenho como foco principal aprimorar minhas skills na área de desenvolvimento web com a stack JavaScript (Node, React). 
-- :leaves: Sempre fui apaixonado com a natureza, música, e games. Sempre estou ouvindo música e costumo jogar um pouco no meu tempo livre!
+- :leaves: Sempre fui apaixonado com a natureza, leitura, música e games. Sempre estou ouvindo música, costumo jogar ou ler um bom livro no meu tempo livre!
 - 💻 Estou em busca de estágio em Desenvolvimento Web.
 
 ##  🛠️ Tech Stack
