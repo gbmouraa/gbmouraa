@@ -1,11 +1,19 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 
-# 👋 Olá! Eu sou o Gabriel Moura
+<h1 align="center">👋 Olá! Eu sou o Gabriel Moura</h1>
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-moura-b63382161/)
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gabrielm.reis@outlook.com)
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gmouradev.netlify.app/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-moura-b63382161/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="">
+  </a>
+  <a href="mailto:gabrielm.reis@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="25" alt="">
+  </a>
+  <a href="https://gmouradev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="25" alt="">
+  </a>
+</div>
 
 ## :information_desk_person: Sobre mim
 - :man_technologist: Atualmente estou cursando Engenharia de Software e estudando Desenvolvimento Front-end através de cursos e projetos - Iniciei meus estudos em Setembro de 2022, desde então tenho cada vez mais paixão pela tecnologia por ser um universo de infinitas possibilidades
