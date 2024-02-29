@@ -15,11 +15,16 @@
   </a>
 </div>
 
-## :information_desk_person: Sobre mim
-- :man_technologist: Atualmente estou estudando Desenvolvimento Front-end através de cursos e projetos - Iniciei meus estudos em Setembro de 2022, desde então tenho cada vez mais paixão pela tecnologia por ser um universo de infinitas possibilidades
-- 🚀 No momento, tenho como foco principal aprimorar minhas skills na área de desenvolvimento web com a stack JavaScript (Node, React). 
-- :leaves: Sempre fui apaixonado com a natureza, leitura, música e games. Sempre estou ouvindo música, costumo jogar ou ler um bom livro no meu tempo livre!
-- 💻 Estou em busca de uma oportunidade em Desenvolvimento Web.
+## Sobre mim
+- :man_technologist: Atualmente estou estudando Desenvolvimento Front-end através de cursos e projetos - Com foco em Frontend e uma jornada de aproximadamente 1 ano e meio aprimorando
+habilidades em HTML, CSS e JavaScript, além de frameworks modernos como React,
+busco integrar uma equipe de desenvolvimento onde possa aplicar minhas
+competências técnicas. Meu objetivo é criar interfaces intuitivas e experiências de
+usuário envolventes, alavancando boas práticas de design para desenvolver soluções
+eficientes e acessíveis. Estou sempre buscando aprender, evoluir e contribuir para
+projetos que desafiem minha capacidade. Apesar de no momento estar focado no
+Frontend eu pretendo me tornar um programador Full Stack.
+
 
 ##  🛠️ Tech Stack
 
@@ -33,6 +38,8 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass logo" height="40" />
+  <img width="12" />
+  <img src="https://stylifycss.com/images/brands/styled-components.png" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react logo" height="40"/>     
   <img width="12" />
