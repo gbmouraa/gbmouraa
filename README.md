@@ -16,7 +16,7 @@
 </div>
 
 ## Sobre mim
-- :man_technologist: Atualmente estou estudando Desenvolvimento Front-end através de cursos e projetos - Com foco em Frontend e uma jornada de aproximadamente 1 ano e meio aprimorando
+- :man_technologist: Atualmente estou estudando Desenvolvimento Front-end através de cursos e projetos - Com foco em Frontend e uma jornada de 2 anos aprimorando
 habilidades em HTML, CSS e JavaScript, além de frameworks modernos como React,
 busco integrar uma equipe de desenvolvimento onde possa aplicar minhas
 competências técnicas. Meu objetivo é criar interfaces intuitivas e experiências de
