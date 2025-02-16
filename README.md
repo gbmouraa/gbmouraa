@@ -7,7 +7,7 @@
 
 
 ## My name is Gabriel Moura
-(React JS | Typescript | Javascript | TAILWIND | FIREBASE | HTML | CSS ) 🚀
+(React JS | Typescript | Javascript | Tailwind | Firebase | HTML | CSS ) 🚀
 - 👩‍💻 A programming enthusiast currently focused on front-end development, my goal is to become a full stack web developer.
 <div align="left">
   
