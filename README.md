@@ -8,7 +8,7 @@
 
 ## Meu nome é Gabriel Moura
 (React JS | Typescript | Javascript | Tailwind | Firebase | HTML | CSS ) 🚀
-- 👩‍💻 Um entusiasta da programação atualmente focado no desenvolvimento de front-end, o meu objetivo é tornar-me um programador web full stack.
+- 👩‍💻 Um entusiasta da programação atualmente focado no desenvolvimento front-end, o meu objetivo é tornar-me um programador web full stack.
 <div align="left">
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbmouraa&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
