@@ -7,14 +7,29 @@
 
 
 ## Meu nome é Gabriel Moura
-(React JS | Typescript | Javascript | Tailwind | Firebase | HTML | CSS | NextJs ) 🚀
-- 👩‍💻 Um entusiasta da programação atualmente focado no desenvolvimento front-end, o meu objetivo é tornar-me um programador web full stack.
+- 👩‍💻 Um entusiasta da programação atualmente focado no desenvolvimento front-end, o meu objetivo é tornar-me um programador web full stack. </br>
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas - Estácio - 2º Semestre
-<div align="left">
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbmouraa&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
-  
- </div>
+
+<h3>Stacks</h3>
+Frontend:
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,sass,tailwind,react,nextjs" />
+  </a>
+</p>
+<span>Backend & Banco:</span>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,firebase,express" />
+  </a>
+</p>
+<span>Tools:</span>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  </a>
+</p>
+
 
 
 
