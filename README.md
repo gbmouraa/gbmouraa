@@ -20,7 +20,7 @@ Frontend:
 <span>Backend & Banco:</span>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,firebase,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,firebase,express,postgres,prisma" />
   </a>
 </p>
 <span>Tools:</span>
