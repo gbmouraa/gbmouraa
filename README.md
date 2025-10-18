@@ -7,7 +7,7 @@
 
 
 ## Meu nome é Gabriel Moura
-- 👩‍💻 Estudante de programação atualmente focado no desenvolvimento front-end, o meu objetivo é tornar-me um programador web full stack. </br>
+- 👩‍💻 Estudante de programação - atualmente focado no desenvolvimento front-end, o meu objetivo é tornar-me um programador web full stack. </br>
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas - Estácio - 2º Semestre
 
 <h3>Stacks</h3>
