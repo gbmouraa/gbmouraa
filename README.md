@@ -7,8 +7,8 @@
 
 
 ## Meu nome é Gabriel Moura
-- 👩‍💻 Estudante de programação - atualmente focado no desenvolvimento front-end, o meu objetivo é tornar-me um programador web full stack. </br>
-- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas - Estácio - 2º Semestre
+- 👩‍💻 Estágiario em Desenvolvimento Web .NET </br>
+- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas - Estácio - 3º Semestre
 
 <h3>Stacks</h3>
 Frontend:
@@ -20,13 +20,13 @@ Frontend:
 <span>Backend & Banco:</span>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,firebase,express,postgres,prisma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,firebase,express,postgres,prisma," />
   </a>
 </p>
 <span>Tools:</span>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,azure" />
   </a>
 </p>
 
