@@ -1,5 +1,5 @@
 
-<h1>Olá Pessoal! 👋</h1>
+<h1>Olá! 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-moura-b63382161/)](https://www.linkedin.com/in/gabriel-moura-b63382161/)
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://portfolio-gabrieldev.vercel.app/)](https://portfolio-gabrieldev.vercel.app/)
@@ -14,19 +14,19 @@
 Frontend:
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,sass,tailwind,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,react,vite" />
   </a>
 </p>
 <span>Backend & Banco:</span>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,firebase,express,postgres,prisma," />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlite" />
   </a>
 </p>
 <span>Tools:</span>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,azure" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio,azure" />
   </a>
 </p>
 
