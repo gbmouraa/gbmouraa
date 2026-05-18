@@ -20,7 +20,7 @@ Frontend:
 <span>Backend & Banco:</span>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlite" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlite,mongo" />
   </a>
 </p>
 <span>Tools:</span>
